@@ -1,0 +1,2 @@
+module LineotHelper
+end
